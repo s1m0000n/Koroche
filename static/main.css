@@ -1,0 +1,16 @@
+hr {
+    margin-top: 1.5rem;
+    margin-bottom: 0;
+    border: 0;
+    border-top: 0 solid rgba(0,0,0,0.0);
+    clear: both;
+    visibility: hidden;
+}
+
+.card{
+    border-radius: 50px;
+}
+
+.btn{
+    border-radius: 50px;
+}
